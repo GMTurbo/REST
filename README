@@ -1,0 +1,5 @@
+This is my first go at writing a RESTful API.
+
+Hapi makes this super easy.
+
+I've written this server to interact with my ember demo app, so its' routes match the ember models.
