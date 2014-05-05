@@ -1,0 +1,29 @@
+{
+  "name": "REST_Server",
+  "version": "0.0.0",
+  "description": "Hapi REST Server for Ember App Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/GMTurbo/REST.git"
+  },
+  "keywords": [
+    "REST",
+    "hapi",
+    "nodejs",
+    "ember"
+  ],
+  "author": "Gabe Testa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GMTurbo/REST/issues"
+  },
+  "homepage": "https://github.com/GMTurbo/REST",
+  "devDependencies": {
+    "hapi": "^4.1.0",
+    "minimist": "0.0.8"
+  }
+}
